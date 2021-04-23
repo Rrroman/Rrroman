@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **JS, React, TS**
 - 📫 How to reach me **romankohutyak@gmail.com**
-- 👨‍💻 <a href="https://rrroman.github.io/certificates/" target="blank"> crtificates </a>
+- 👨‍💻 <a href="https://rrroman.github.io/certificates/" target="blank"> Certificates </a>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -24,9 +24,6 @@
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
   <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
 </p>
-
-
-<p align="center">&nbsp;<img align="center" src="https://rrroman.github.io/certificates/images/certificate-rs-front-end-2020-2021.png" alt="RS School: Front End 2020/2021" width="500" height="350" /></p>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rrroman&show_icons=true&locale=en" alt="rrroman" /></p>
 
