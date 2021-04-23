@@ -2,8 +2,8 @@
 <h3 align="center">A passionate frontend developer from Ukraine</h3>
 
 - 🌱 I’m currently learning **JS, React, TS**
-
- - 📫 How to reach me **romankohutyak@gmail.com**
+- 📫 How to reach me **romankohutyak@gmail.com**
+- 👨‍💻 <a href="https://rrroman.github.io/certificates/" target="blank"> crtificates </a>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
