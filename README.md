@@ -25,7 +25,9 @@
   <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
 </p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rrroman&show_icons=true&locale=en" alt="rrroman" /></p>
+<div style="display:flex; flex-wrap:wrap; justify-content: space-evenly; aline-content: center">
+  <p style="width: 400px; height:150px" align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rrroman&show_icons=true&locale=en" alt="rrroman" /></p>
+  <p style="width: 400px; height:150px" align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rrroman&" alt="rrroman"></p>
+</div>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rrroman&" alt="rrroman" /></p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=rrroman&label=Profile%20views&color=0e75b6&style=flat" alt="rrroman" /> </p>
