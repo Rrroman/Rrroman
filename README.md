@@ -26,6 +26,8 @@
 </p>
 
 
+<p>&nbsp;<img align="center" src="https://rrroman.github.io/certificates/images/certificate-rs-front-end-2020-2021.png" alt="RS School: Front End 2020/2021" width="500" height="350" /></p>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rrroman&show_icons=true&locale=en" alt="rrroman" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rrroman&" alt="rrroman" /></p>
