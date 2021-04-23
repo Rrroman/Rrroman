@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Roman</h1>
 <h3 align="center">A passionate frontend developer from Ukraine</h3>
 
-<p align="center"> - 🌱 I’m currently learning **JS, React, TS**</p>
+- 🌱 I’m currently learning **JS, React, TS**
 
-<p align="center"> - 📫 How to reach me **romankohutyak@gmail.com**</p>
+ - 📫 How to reach me **romankohutyak@gmail.com**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
