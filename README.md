@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Ukraine</h3>
 
 - 🌱 I’m currently learning **JS, React, TS**
-- 📫 How to reach me **romankohutyak@gmail.com**
+- 📫 How to reach me - **romankohutyak@gmail.com**
 
 - 👨‍💻 Certificates: 
   - <a href="https://rrroman.github.io/certificates/" target="blank">The rolling Scopes School - JS FRONT END</a>
