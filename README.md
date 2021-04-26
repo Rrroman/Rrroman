@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Roman</h1>
 <h3 align="center">A passionate frontend developer from Ukraine</h3>
 
-- 🌱 I’m currently learning **JS, React, TS**
+- 🌱 I’m currently learning **JS, React, TS, Angular**
 - 📫 How to reach me - **romankohutyak@gmail.com**
 
 - 👨‍💻 Certificates: 
