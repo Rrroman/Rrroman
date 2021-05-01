@@ -5,7 +5,7 @@
 - 📫 How to reach me - **romankohutyak@gmail.com**
 
 - 👨‍💻 Certificates: 
-  - <a href="https://rrroman.github.io/certificates/" target="blank">2020.09.01 – 2021.02.12 The Rolling Scopes: JS Front End.</a>
+  - <a href="https://rrroman.github.io/certificates/images/certificate-rs-front-end-2020-2021.png" target="blank">2020.09.01 – 2021.02.12 The Rolling Scopes: JS Front End.</a>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
