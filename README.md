@@ -6,7 +6,7 @@
 
 - 👨‍💻 Certificates: 
   - <a href="https://rrroman.github.io/certificates/images/certificate-rs-front-end-2020-2021.png" target="blank">2020.09.01 – 2021.02.12 The Rolling Scopes: JS Front End.</a>
-  - <a href="https://rrroman.github.io/certificates/images/certificate-rs-react-2021.png" target="blank">2020.15.01 – 2021.05.03 The Rolling Scopes: React.</a>
+  - <a href="https://rrroman.github.io/certificates/images/certificate-rs-react-2021.png" target="blank">2020.02.15 – 2021.05.03 The Rolling Scopes: React.</a>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
