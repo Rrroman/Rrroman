@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Roman</h1>
 <h3 align="center">A passionate frontend developer from Ukraine</h3>
 
-- 🌱 I’m currently learning - **WCAG**
+- 🌱 I’m currently learning - **WCAG, Design Patterns, Testing**
 - 📫 How to reach me - **romankohutyak@gmail.com**
 
 - 👨‍💻 Certificates: 
