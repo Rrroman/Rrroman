@@ -4,10 +4,6 @@
 - 🌱 I’m currently learning - **Design Patterns**
 - 📫 How to reach me - **romankohutyak@gmail.com**
 
-- 👨‍💻 Certificates: 
-  - <a href="https://rrroman.github.io/certificates/images/certificate-rs-front-end-2020-2021.png" target="blank">2020.09.01 – 2021.02.12 The Rolling Scopes: JS Front End.</a>
-  - <a href="https://rrroman.github.io/certificates/images/certificate-rs-react-2021.png" target="blank">2020.02.15 – 2021.05.03 The Rolling Scopes: React.</a>
-
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/roman-kohutiak-5a4076186/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/roman-kohutiak-5a4076186/" height="30" width="40" /></a>
